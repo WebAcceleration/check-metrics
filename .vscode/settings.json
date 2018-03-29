@@ -1,0 +1,23 @@
+{
+  // ===
+  // Spacing
+  // ===
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  // ===
+  // Event Triggers
+  // ===
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.run": "onSave",
+  // ===
+  // JS(ON)
+  // ===
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "json.format.enable": false
+}
